@@ -1,1 +1,1 @@
-# second_partial
+# plc_segundo_parcial
