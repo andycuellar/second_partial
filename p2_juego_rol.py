@@ -1,3 +1,5 @@
+https://replit.com/@AndreaCuellar2/P2-A6-Ej-Tipo-Examen-8?v=1
+
 personaje= input("Bienvenido al juego de rol! Elije un personaje: guerrero, mago o rey:")
 if personaje =='guerrero':
   inicio=input("Elejiste al guerrero, por favor ingresa un número entero del 1 al 10 y veamos si tienes suerte:")
