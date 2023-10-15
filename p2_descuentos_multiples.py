@@ -1,3 +1,5 @@
+https://replit.com/@AndreaCuellar2/P2-A6-Ej-Tipo-Examen-1?v=1
+
 #Compra con descuentos múltiples
 precio=float(input("Hola, buen día! Por favor ingresa el precio del producto:"))
 unidades=float(input("Ingresa la cantidad de unidades:"))
