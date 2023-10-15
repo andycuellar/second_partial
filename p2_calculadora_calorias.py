@@ -1,3 +1,5 @@
+https://replit.com/@AndreaCuellar2/P2-A6-Ej-tipo-Examen-3?v=1
+
 peso=float(input("Ingresa tu peso en kilogramos:"))
 duracion=float(input("Ingresa la duración en minutos:"))
 actividad=input("Ingresa el tipo de actividad (correr, nadar, caminar, ciclismo, levantar pesas):")
