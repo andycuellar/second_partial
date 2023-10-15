@@ -1,3 +1,5 @@
+https://replit.com/@AndreaCuellar2/P2-A6-Ej-Tipo-Examen-4?v=1
+
 origen=input("Ingresa la unidad de origen (kilómetros, millas, litros, galones, fahrenheit, celsius ):")
 destino=input("Ingresa la unidad de destino(kilómetros, millas, litros, galones, fahrenheit, celsius):")
 cantidad=float(input("Ingresa la cantidad a convertir:"))
