@@ -1,3 +1,5 @@
+https://replit.com/@AndreaCuellar2/P2-A6-Ej-Tipo-Examen-6?v=1
+
 print("Ingrese las calificaciones de los 25 alumnos:")
 a1=float(input("Ingrese la calificación de alumno 1:"))
 a2=float(input("Ingrese la calificación de alumno 2:"))
