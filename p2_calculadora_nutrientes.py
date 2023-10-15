@@ -1,3 +1,5 @@
+https://replit.com/@AndreaCuellar2/P2-A6-Ej-Tipo-Examen-5?v=1
+
 print("Ingresa los ingredientes que usaste y su valor nutricional, maximo 10 ingredientes")
 print("Ingresa el valor nutricional de tu primer igrediente")
 ingrediente_1 = float(input())
